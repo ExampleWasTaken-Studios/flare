@@ -3,7 +3,7 @@ import { CanvasElementProps } from './CanvasElement';
 
 export interface CanvasProps {
   className?: string; // TODO: remove once background handling is implemented
-  children: ReactElement<CanvasElementProps>[];
+  children: ReactElement<CanvasElementProps> | ReactElement<CanvasElementProps>[];
 }
 
 export const Canvas = ({ className, children }: CanvasProps) => {
