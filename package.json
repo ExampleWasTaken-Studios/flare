@@ -1,6 +1,6 @@
 {
   "name": "@ewt-studios/flare",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.1",
   "description": "FLARE (Fast, Lightweight, Adaptable and Reactive Engine) is the render engine that is used in OpenATC.\r It provides a canvas that can be drawn on.",
   "repository": {
     "type": "git",
