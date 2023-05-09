@@ -16,7 +16,8 @@
     "lib"
   ],
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "dev": "cd test && npm run dev & cd .."
   },
   "author": "ExampleWasTaken",
   "license": "GPL-3.0",
