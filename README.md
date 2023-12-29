@@ -1,3 +1,6 @@
+> [!CAUTION]
+> FLARE is no longer updated and its repository has been archived.
+
 # FLARE
 FLARE (Fast, Lightweight, Adaptable and Reactive Engine) is a 2D render engine.  
 It uses a custom canvas and does not make use of the native HTML `<canvas>` element.
